@@ -1,0 +1,2 @@
+hi this is sample to check for commit command
+
